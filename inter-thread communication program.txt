@@ -1,4 +1,4 @@
-Example of Inter Thread Communication in Java:
+123Example of Inter Thread Communication in Java:
 -------------------------------------------------------------
 Let's see the simple example of inter thread communication:
 ---------------------------------------------------------------------------
